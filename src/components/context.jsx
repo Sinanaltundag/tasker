@@ -73,7 +73,7 @@ useEffect(() => {
         handleClick,
         taskData,
         handleDelete,
-        handleDone
+        handleDone,
       }}
     >
       {children}
